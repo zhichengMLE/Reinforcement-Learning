@@ -61,7 +61,7 @@ def inc_Q(s, a, alpha, inc):
 
 def run():
     global discount
-    time.sleep(1)
+    time.sleep(10)
     alpha = 1
     t = 1
     while True:
